@@ -1,6 +1,3 @@
-Names: Deeya Patel, Aditi Parekh
-NetId: dmp450, avp126
-
 There are three primary components behind performing spellcheck on the user-inputted directory/file: recursive directory traversal on the user-passed argument of the directory/file and opening them, reading the contents of the .txt files and organizing the contents in terms of row and column, and performing the spell checking functionality by comparing words in the text file to the user-inputting dictionary argument. 
 
 We designed our code to perform these functionalities, by dividing them into primarily 5 different functions. 
